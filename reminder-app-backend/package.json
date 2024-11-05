@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+<<<<<<< HEAD
     "dotenv": "^16.4.5",
+=======
+    "dotenv": "^16.3.1",
+>>>>>>> 1c541f66e13170b98008636c808a217d732caf92
     "express": "^4.18.2",
     "mongoose": "^7.5.0",
     "twilio": "^4.17.0",
